@@ -1,0 +1,8 @@
+packages:
+  - apps/*
+  - config/*
+
+catalog:
+  eslint: 9.34.0
+  prettier: 3.4.2
+  typescript: 5.9.2
