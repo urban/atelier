@@ -1,7 +1,7 @@
 
 # Atelier Monorepo
 
-This is a monorepo for game development and learning.
+This is a monorepo for learning.
 
 ## Overview
 
